@@ -1,0 +1,16 @@
+PODS:
+  - DerrickFramework (0.1.0)
+
+DEPENDENCIES:
+  - DerrickFramework (from `../`)
+
+EXTERNAL SOURCES:
+  DerrickFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DerrickFramework: 87650960517976a71f8b0e070bb485d8589e76e6
+
+PODFILE CHECKSUM: e2a7d79c2c154b4833e1d243cab44083915df597
+
+COCOAPODS: 1.9.1

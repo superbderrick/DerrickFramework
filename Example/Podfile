@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DerrickFramework_Example' do
+  pod 'DerrickFramework', :path => '../'
+
+  target 'DerrickFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
