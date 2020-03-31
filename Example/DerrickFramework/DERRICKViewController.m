@@ -7,6 +7,7 @@
 //
 
 #import "DERRICKViewController.h"
+#import <DerrickFramework/Derrick.h>
 
 @interface DERRICKViewController ()
 
@@ -17,7 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    Derrick * derrick = [[Derrick alloc] init];
 }
 
 - (void)didReceiveMemoryWarning

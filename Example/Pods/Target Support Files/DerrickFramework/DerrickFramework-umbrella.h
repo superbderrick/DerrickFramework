@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Derrick.h"
 
 FOUNDATION_EXPORT double DerrickFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char DerrickFrameworkVersionString[];
